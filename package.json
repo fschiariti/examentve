@@ -1,0 +1,19 @@
+{
+  "name": "examentve",
+  "version": "1.0.0",
+  "description": "examentve",
+  "main": "node.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.6.9",
+    "mongose": "0.0.2-security",
+    "node": "^12.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
